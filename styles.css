@@ -11,3 +11,8 @@
 .cabecalho-imagem {
     width: 20%;
 }
+
+.cabecalho-lista-item {
+    display: inline-block
+
+}
