@@ -1,4 +1,4 @@
-.cabecalho{
+.cabecalho {
     background-color: rgb(140, 0, 255);
     color: white;
     display: flex;
@@ -15,4 +15,5 @@
 .cabecalho-lista-item {
     display: inline-block;
     margin: 0 16px;
+    font-size: 24px;
 }
